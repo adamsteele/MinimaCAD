@@ -2,7 +2,7 @@ Minima CAD
 ==========
 
 Credit goes to Adrian over at http://yo4hhp.wordpress.com/ who did the original Eagle work and Ashhar Farhan over at http://www.phonestack.com/farhan/minima.html for the original Minima design.
-
+There is a mailing list at http://www.freelists.org/archive/minima/recent for the Minima radio.
 ==========
 
 What I've done is combine the two radio boards in to a single eagle brd/sch file and wrote up a BOM for DigiKey.
@@ -15,7 +15,6 @@ What still needs done:
 - [ ] Cleanup part values for consistency
 - [ ] Cleanup BOM. There are a few resistor/capacitor lines that could be combined.
 - [ ] Verify BOM. I went through and generally picked the cheapest parts available. Many of these have fairly loose tolerances which might not work in a radio (I don't know).
-
 ==========
 
 Quick Notes:
