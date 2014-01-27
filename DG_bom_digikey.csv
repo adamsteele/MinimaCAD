@@ -1,0 +1,32 @@
+Total part count:,,33,,,,BOM Cost:,$30.93,
+,,,,,,,,
+QTY,Value,Device,Parts,Description,Digikey P/N,Price at QTY,Total $,URL
+1,,78XXL,IC4,VOLTAGE REGULATOR,MC7805CT-BPMS-ND,$0.48,$0.48,http://www.digikey.com/product-detail/en/MC7805CT-BP/MC7805CT-BPMS-ND/804682
+1,,PINHD-1X4,BAND,PIN HEADER,-,-,-,-
+1,,SI57X,IC2,Any Rate I2C Prorammable XO/VCXO SiliconLabs Si570 XO and Si571 VCXO,336-2518-ND,$13.11,$13.11,http://www.digikey.com/product-detail/en/570CAC000141DG/336-2518-ND/3991067
+4,0.1,C-EU050-024X044,"C4, C6, C7, C8","CAPACITOR, European symbol",445-8421-ND,$0.20,$0.80,http://www.digikey.com/product-detail/en/FK18X7R1E104K/445-8421-ND/2815351
+1,10k,R-EU_0204/5,R7,"RESISTOR, European symbol",CF18JT10K0CT-ND,$0.09,$0.09,http://www.digikey.com/product-detail/en/CF18JT10K0/CF18JT10K0CT-ND/2022766
+1,10k,TRIM_EU-CA6V,R1,POTENTIOMETER,3306F-103-ND,$0.41,$0.41,http://www.digikey.com/product-detail/en/3306F-1-103/3306F-103-ND/84666
+1,10u,CPOL-EUE2.5-5,C1,"POLARIZED CAPACITOR, European symbol",493-12772-1-ND,$0.12,$0.12,http://www.digikey.com/product-detail/en/UVR1E100MDD6TP/493-12772-1-ND/4328365
+1,12V,PINHD-1X2,12V,PIN HEADER,-,-,-,-
+1,16MHz,CRYSTALHC49S,Q1,CRYSTAL,CTX1085-ND,$0.36,$0.36,http://www.digikey.com/product-detail/en/ATS16B/CTX1085-ND/2640031
+1,1k,R-EU_0204/5,R4,"RESISTOR, European symbol",CF18JT1K00CT-ND,$0.07,$0.07,http://www.digikey.com/product-detail/en/CF18JT1K00/CF18JT1K00CT-ND/2022742
+2,22p,C-EUC1206,"C2, C3","CAPACITOR, European symbol",1276-2820-1-ND,$0.10,$0.20,http://www.digikey.com/product-detail/en/CL31C220JCCNNNC/1276-2820-1-ND/3890906
+1,33R,R-EU_0207/15,R2,"RESISTOR, European symbol",CF14JT33R0CT-ND,$0.08,$0.08,http://www.digikey.com/product-detail/en/CF14JT33R0/CF14JT33R0CT-ND/1830315
+2,4k7,R-EU_0204/5,"R5, R6","RESISTOR, European symbol",CF18JT4K70CT-ND,$0.09,$0.18,http://www.digikey.com/product-detail/en/CF18JT4K70/CF18JT4K70CT-ND/2022758
+1,50u,CPOL-EUE2.5-5,C5,"POLARIZED CAPACITOR, European symbol",493-12597-1-ND,$0.15,$0.15,http://www.digikey.com/product-detail/en/UVK1V470MDD1TD/493-12597-1-ND/4328678
+1,5V,PINHD-1X1,5V,PIN HEADER,-,-,-,-
+1,7805,LM1117TO252,IC3,,1016-1584-1-ND,$0.66,$0.66,http://www.digikey.com/product-detail/en/SP7805V2-L%2FTR/1016-1584-1-ND/2687706
+1,BFO,PINHD-1X1,BFO,PIN HEADER,-,-,-,-
+1,CW,PINHD-1X1,CW,PIN HEADER,-,-,-,-
+1,FN,PINHD-1X2,FN,PIN HEADER,-,-,-,-
+1,KEY,PINHD-1X2,KEY,PIN HEADER,-,-,-,-
+1,MEGA8-P,MEGA8-P,IC1,MICROCONTROLLER,ATMEGA328P-PU-ND,$3.23,$3.23,http://www.digikey.com/product-detail/en/ATMEGA328P-PU/ATMEGA328P-PU-ND/1914589
+1,PTT,PINHD-1X2,PTT,PIN HEADER,-,-,-,-
+1,RST,PINHD-1X2,RST,PIN HEADER,-,-,-,-
+1,SERIAL,PINHD-1X2,PC,PIN HEADER,-,-,-,-
+1,T/R,PINHD-1X1,T/R,PIN HEADER,-,-,-,-
+1,TUNE,PINHD-1X3,TUNE,PIN HEADER,-,-,-,-
+1,TUXGR_16X2_R2,TUXGR_16X2_R2,DIS1,"Tuxgraphics LCD display 16x2 characters reflective, without background light",67-1781-ND,$8.38,$8.38,http://www.digikey.com/product-detail/en/LCM-S01602DTR%2FM/67-1781-ND/469805
+1,VFO,BU-SMA-H,X2,FEMALE SMA CONNECTOR,CONSMA001-ND,$2.61,$2.61,http://www.digikey.com/product-detail/en/CONSMA001/CONSMA001-ND/1577202
+,,,,,,,,
